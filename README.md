@@ -1,6 +1,6 @@
 # OpenAI-RAG-QA
 
-A **general-purpose, AI-powered Retrieval-Augmented Generation (RAG)** pipeline for asking questions about HR documents (or any PDF). Built with **OpenAI**, **LangChain**, and **ChromaDB**, and fully **Colab-friendly**.
+A **general-purpose, AI-powered Retrieval-Augmented Generation (RAG)** pipeline for asking questions about documents (any PDF). Built with **OpenAI**, **LangChain**, and **ChromaDB**, and fully **Colab-friendly**.
 
 ---
 
