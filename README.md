@@ -21,8 +21,8 @@ Budget option: text-embedding-3-small (cheaper; smaller vectors).
 
 You can switch models in one place in the notebook:
 
-`LLM_MODEL = "gpt-4o-mini"          # or "gpt-4o"
-EMBED_MODEL = "text-embedding-3-large"  # or "text-embedding-3-small"`
+`LLM_MODEL = "gpt-4o-mini"          # or "gpt-4o"`
+`EMBED_MODEL = "text-embedding-3-large"  # or "text-embedding-3-small"`
 
 ## ⚠️ Disclaimer
 
